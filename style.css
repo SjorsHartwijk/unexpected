@@ -1,0 +1,13 @@
+body {
+    background: url(back-texture.png);
+    background-position: bottom center;
+    background-size: cover;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Teko', sans-serif;
+    text-transform: uppercase;
+    height: 100vh;
+}
+i {
+    margin: 10px;
+}
